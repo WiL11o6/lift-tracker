@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-title {
+    padding-bottom: 70px;
+    border-bottom: 3px solid black;
+}
+
+.label-font {
+    font-size: x-large;
+}
+
+.flex-item {
+    padding: 25px;
+}
+
+.btn.btn-primary {
+    width: 150px;
+}
+
+.btn.btn-primary.custom-button {
+    width: auto;
+}
+
+.btn.btn-danger {
+    margin: 20px;
+}
+
+.form-wrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.form {
+    margin: 20px;
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+.ul-element {
+    padding-top: 50px;
+}
